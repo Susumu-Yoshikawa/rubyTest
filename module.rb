@@ -55,3 +55,5 @@ class Product2
 end
 
 Product2.create_products([])
+
+
